@@ -8,7 +8,7 @@ Each notebook is named according to the main text / supplmentary figure figure i
 ---
 ## Data availability
 
-The data used in the jupyter notebooks are available in the University of Exeter Data Repository: [DOI TBC].
+The data used in the jupyter notebooks are available on Zenodo: 10.5281/zenodo.15838168.
 
 ---
 ## Requirement
